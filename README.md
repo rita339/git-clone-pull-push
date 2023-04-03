@@ -1,6 +1,6 @@
 # git-clone-pull-push
 
-Julia Erbis
-25 
-Ukrainisch
-Burger
+- Julia E.
+- 45 
+- Ukraine
+- Burger
